@@ -1,7 +1,7 @@
 # Non-Linear-System-Control---A-Naive-Approach-
 
 ## Introduction
-In this project, a linear approach is apllied as an attempt to control a non-linear system. The aim is to design PID controllers (Proportional Integral Derevitive controllers) to do the task.The system we are trying to control is the twin rotor multi-input multi-output system (MIMO) where we want to have two desired outputs out of many. 
+In this project, a linear approach is apllied as an attempt to control a highly non-linear system. The aim is to design PID controllers (Proportional Integral Derevitive controllers) to do the task.The system we are trying to control is the twin rotor multi-input multi-output system (MIMO) where we want to have two desired outputs out of many. 
 
 ## Objective
 The main objective of this project is to figure out wether or not a linear controller is able to compensate a nonlinear system.
